@@ -1,0 +1,10 @@
+name: SOVI_ANALISIS
+title: SOVI_ANALISIS
+username: hanifj
+account: hanifj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15112499
+bundleId:
+url: https://hanifj.shinyapps.io/SOVI_ANALISIS/
+version: 1
